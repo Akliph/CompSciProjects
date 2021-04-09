@@ -1,1 +1,1 @@
-These are my compsci projects for school
+These are my comp sci projects for school
